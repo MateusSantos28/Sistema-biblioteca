@@ -1,0 +1,41 @@
+{
+  "short_name": "APP",
+  "name": "APP DS3",
+  "theme_color": "#4A90E2",
+  "background_color": "#F7F8F9",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "icon/48x.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "icon/72x.png",
+      "type": "image/png",
+      "sizes": "72x72",
+      "density": "1.5"
+
+    },
+    {
+      "src": "icon/96x.png",
+      "type": "image/png",
+      "sizes": "96x96",
+      "density": "2.0"
+    },
+    {
+      "src": "icon/144x.png",
+      "type": "image/png",
+      "sizes": "144x144",
+      "density": "3.0"
+    },
+    {
+      "src": "icon/192x.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "density": "4.0",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "./login.php"
+}
