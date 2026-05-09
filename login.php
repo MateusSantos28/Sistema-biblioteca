@@ -15,14 +15,6 @@ session_start();
 
 	<title>ACESSO AO SISTEMA!</title>
 
-	<!-- Link para o Manifest -->
-    	<link rel="manifest" href="manifest.json">
-
-    	<!-- Cores de interface -->
-    	<meta name="msapplication-TileColor" content="#ffffff">
-    	<meta name="msapplication-TileImage" content="icon/192x.png">
-    	<meta name="theme-color" content="#ffffff">
-	
 </head>
 
 <script type="text/javascript">
@@ -77,7 +69,7 @@ session_start();
 									} else {
 									};
 								}
-
+//lskdjfsldkjfs
 								//retorno proteção de acesso pela url
 								if (isset($_SESSION['erro'])) {
 
