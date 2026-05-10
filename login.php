@@ -70,7 +70,7 @@ session_start();
 									};
 								}
 //lskdjfsldkjfs
-								//retorno proteção de acesso pela url
+								//retorno proteção de acesso pela urlisdfhsoidufydsiou
 								if (isset($_SESSION['erro'])) {
 
 									echo $_SESSION['erro'];
