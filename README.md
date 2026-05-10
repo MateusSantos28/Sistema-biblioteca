@@ -55,4 +55,4 @@ git push origin main
 ```
 
 ---
-**Dica de Ouro:** Antes de começar a trabalhar, use sempre o comando `git pull origin main` para garantir que seu código está atualizado com o que os outros colegas enviaram!
+Antes de começar a mexer no código, use sempre o comando `git pull origin main` para garantir que ele está atualizado com o que os outros enviaram!
