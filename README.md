@@ -1,4 +1,4 @@
-# 📚 Passo a Passo: Conexão do Git no Visual Studio Code
+# Passo a Passo: Conexão do Git no Visual Studio Code
 
 Este guia orienta como configurar o ambiente para visualizar e colaborar no projeto **Sistema-biblioteca**.
 
@@ -29,8 +29,8 @@ git clone https://github.com/MateusSantos28/Sistema-biblioteca.git
 
 ---
 
-## 🚀 Fluxo de Trabalho (Somente para Colaboradores)
-Após fazer suas modificações no código, siga esta ordem de comandos para enviar as alterações ao GitHub:
+## Fluxo do Projeto (Para Colaboradores)
+Após fazer suas modificações no código, é preciso seguir esta ordem de comandos para enviar as alterações ao GitHub:
 
 ### Passo A: Preparar os arquivos
 Este comando "avisa" ao Git quais arquivos você alterou:
@@ -38,8 +38,8 @@ Este comando "avisa" ao Git quais arquivos você alterou:
 git add .
 ```
 
-### Passo B: Criar o "pacote" de alteração (Commit)
-Descreva brevemente o que você mudou entre as aspas:
+### Passo B: Criar o Commit
+Descreva o que você mudou entre as aspas:
 ```bash
 git commit -m "Explique aqui o que você modificou"
 ```
