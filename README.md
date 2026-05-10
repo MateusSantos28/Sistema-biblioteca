@@ -3,13 +3,12 @@
 Este guia orienta como configurar o ambiente para visualizar e colaborar no projeto **Sistema-biblioteca**.
 
 ## 1. Permissões de Colaborador
-Para enviar alterações (dar `push`), você precisa ser um colaborador oficial do repositório.
-*   **Como participar:** Enviem seus nomes de usuário do GitHub para eu adicionar. 
-*   **Status atual:** Até agora, apenas o **Nycolas** e o **Lírio** têm acesso de escrita.
-*   **Acesso público:** Não precisa ser colaborador apenas para baixar o código. Qualquer pessoa pode acessar por aqui: [https://github.com/MateusSantos28/Sistema-biblioteca.git](https://github.com/MateusSantos28/Sistema-biblioteca.git)
+Para enviar alterações (dar `push`), você precisa ser um colaborador do repositório.
+*   Enviem seus nomes de usuário do GitHub. 
+*  Não precisa ser colaborador apenas para baixar o código. Qualquer pessoa pode acessar pelo link: [https://github.com/MateusSantos28/Sistema-biblioteca.git](https://github.com/MateusSantos28/Sistema-biblioteca.git)
 
 ## 2. Instalação das ferramentas
-Você precisará de dois programas instalados:
+Você precisará desses dois programas instalados:
 
 *   **Visual Studio Code (Editor):** Baixe e instale para o seu sistema operacional.
     *   [https://visualstudio.com](https://visualstudio.com)
@@ -23,9 +22,9 @@ Sua conta do GitHub precisa estar vinculada ao seu computador. Para confirmar qu
 ```bash
 git config --global user.name
 ```
-> **Nota:** Se for sua primeira vez, o VS Code abrirá uma janela no navegador pedindo autorização para logar no GitHub ao tentar enviar algo.
+> **Nota:** Se for sua primeira vez, o VS Code abrirá uma janela no navegador pedindo autorização para logar no GitHub.
 
-## 4. Como baixar o código (Clone)
+## 4. Como clonar o código
 Para ter uma cópia do código na sua máquina, escolha uma pasta, abra o terminal e digite:
 
 ```bash
