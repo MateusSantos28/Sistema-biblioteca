@@ -50,7 +50,7 @@ git commit -m "Explique o que você modificou"
 ```
 
 ### Passo C: Enviar para o repositório
-Para mandar tudo pro repositório:
+Para mandar tudo pro GitHub:
 ```bash
 git push origin main
 ```
