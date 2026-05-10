@@ -46,14 +46,14 @@ git add .
 ### Passo B: Criar o Commit
 Descreva o que você mudou entre as aspas:
 ```bash
-git commit -m "Explique aqui o que você modificou"
+git commit -m "Explique o que você modificou"
 ```
 
 ### Passo C: Enviar para o repositório
-Para mandar tudo definitivamente para a nuvem:
+Para mandar tudo pro repositório:
 ```bash
 git push origin main
 ```
 
 ---
-**💡 Dica de Ouro:** Antes de começar a trabalhar, use sempre o comando `git pull origin main` para garantir que seu código está atualizado com o que os outros colegas enviaram!
+**Dica de Ouro:** Antes de começar a trabalhar, use sempre o comando `git pull origin main` para garantir que seu código está atualizado com o que os outros colegas enviaram!
