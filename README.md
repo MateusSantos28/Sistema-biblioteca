@@ -5,7 +5,7 @@ Este guia orienta como configurar o ambiente para visualizar e colaborar no proj
 ## 1. Permissões de Colaborador
 Para enviar alterações (dar `push`), você precisa ser um colaborador do repositório.
 *   Enviem seus nomes de usuário do GitHub. 
-*  Não precisa ser colaborador apenas para baixar o código. Qualquer pessoa pode acessar pelo link: [https://github.com/MateusSantos28/Sistema-biblioteca.git](https://github.com/MateusSantos28/Sistema-biblioteca.git)
+*  Não precisa ser colaborador pra apenas para baixar o código. Qualquer pessoa pode acessar pelo link: [https://github.com/MateusSantos28/Sistema-biblioteca.git](https://github.com/MateusSantos28/Sistema-biblioteca.git)
 
 ## 2. Instalação das ferramentas
 Você precisará desses dois programas instalados:
