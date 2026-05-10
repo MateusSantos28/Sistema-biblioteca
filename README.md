@@ -8,9 +8,14 @@ Para enviar alterações (dar `push`), você precisa ser um colaborador oficial 
 *   **Status atual:** Até agora, apenas o **Nycolas** e o **Lírio** têm acesso de escrita.
 *   **Acesso público:** Não precisa ser colaborador apenas para baixar o código. Qualquer pessoa pode acessar por aqui: [https://github.com/MateusSantos28/Sistema-biblioteca.git](https://github.com/MateusSantos28/Sistema-biblioteca.git)
 
-## 2. Instalação do Git
-É obrigatório ter o Git instalado no seu sistema para rodar os comandos no terminal do VS Code ou no Git Bash.
-*   **Download oficial:** [https://git-scm.com](https://git-scm.com)
+## 2. Instalação das ferramentas
+Você precisará de dois programas instalados:
+
+*   **Visual Studio Code (Editor):** Baixe e instale para o seu sistema operacional.
+    *   [https://visualstudio.com](https://visualstudio.com)
+*   **Git (Motor do Terminal):** Obrigatório para rodar os comandos no terminal do VS Code ou no Git Bash.
+    *   [https://git-scm.com](https://git-scm.com)
+
 
 ## 3. Conexão da Conta
 Sua conta do GitHub precisa estar vinculada ao seu computador. Para confirmar qual nome de usuário está ativo na sua máquina, use:
