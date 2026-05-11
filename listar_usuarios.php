@@ -1,6 +1,6 @@
 <?php
 include("conexao.php");
-//dkjfhskfhskjdfhskdhf
+
 $select_usuarios = mysqli_query($conn, "SELECT * FROM usuarios");
 ?>	
 	<!-- Bootstrap CSS -->
