@@ -55,4 +55,4 @@ git push origin main
 ```
 
 ---
-Antes de começar a mexer no código, use sempre o comando `git pull origin main` para garantir que ele está atualizado com o que os outros enviaram!
+Antes de começar a mexer no código, use sempre o comando `git pull origin main` para garantir que ele está atualizado com o que os outros enviaram.
